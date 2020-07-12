@@ -1,0 +1,13 @@
+README - ooikaiyen
+
+First of all, I created a Visual C# project using Console App(.NET Core).
+Then, after creating the project, I added the all 130 total normal temperature readings 
+into (from normtemp.dat.txt into a Quotes.txt). The text file I named it as Quotes.txt.
+
+Each lines of data are determined as quotes for easier recognition.
+from the "void Generate()" function, everytime user clicks the Generate button, a random
+data out of 130 normal temperate readings will be shown on the program.
+
+Besides, there is also a "exit" button for user to close the program.
+
+VIDEO DEMO link - https://drive.google.com/file/d/1r_BDo5SjsDoQaXreZSMqCBvJpvg1xoij/view?usp=sharing
